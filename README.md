@@ -1,4 +1,5 @@
-# Source Code
+# Brainmet-Radiomics
+## Source Code
 
 accompanying the paper: 
 
@@ -6,4 +7,4 @@ accompanying the paper:
 
 Neuro-Oncology Advances 2024  
 
-DOI: 10.1093/noajnl/vdae060  # Brainmet-Radiomics
+DOI: 10.1093/noajnl/vdae060
